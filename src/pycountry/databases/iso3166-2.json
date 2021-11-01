@@ -18914,84 +18914,84 @@
       "type": "Territory"
     },
     {
-      "code": "PL-DS",
+      "code": "PL-02",
       "name": "Dolnośląskie",
-      "type": "Province"
+      "type": "Voivodship"
     },
     {
-      "code": "PL-KP",
+      "code": "PL-04",
       "name": "Kujawsko-pomorskie",
-      "type": "Province"
+      "type": "Voivodship"
     },
     {
-      "code": "PL-LB",
-      "name": "Lubuskie",
-      "type": "Province"
-    },
-    {
-      "code": "PL-LD",
-      "name": "Łódzkie",
-      "type": "Province"
-    },
-    {
-      "code": "PL-LU",
+      "code": "PL-06",
       "name": "Lubelskie",
-      "type": "Province"
+      "type": "Voivodship"
     },
     {
-      "code": "PL-MA",
+      "code": "PL-08",
+      "name": "Lubuskie",
+      "type": "Voivodship"
+    },
+    {
+      "code": "PL-10",
+      "name": "Łódzkie",
+      "type": "Voivodship"
+    },
+    {
+      "code": "PL-12",
       "name": "Małopolskie",
-      "type": "Province"
+      "type": "Voivodship"
     },
     {
-      "code": "PL-MZ",
+      "code": "PL-14",
       "name": "Mazowieckie",
-      "type": "Province"
+      "type": "Voivodship"
     },
     {
-      "code": "PL-OP",
+      "code": "PL-16",
       "name": "Opolskie",
-      "type": "Province"
+      "type": "Voivodship"
     },
     {
-      "code": "PL-PD",
-      "name": "Podlaskie",
-      "type": "Province"
-    },
-    {
-      "code": "PL-PK",
+      "code": "PL-18",
       "name": "Podkarpackie",
-      "type": "Province"
+      "type": "Voivodship"
     },
     {
-      "code": "PL-PM",
+      "code": "PL-20",
+      "name": "Podlaskie",
+      "type": "Voivodship"
+    },
+    {
+      "code": "PL-22",
       "name": "Pomorskie",
-      "type": "Province"
+      "type": "Voivodship"
     },
     {
-      "code": "PL-SK",
-      "name": "Świętokrzyskie",
-      "type": "Province"
-    },
-    {
-      "code": "PL-SL",
+      "code": "PL-24",
       "name": "Śląskie",
-      "type": "Province"
+      "type": "Voivodship"
     },
     {
-      "code": "PL-WN",
+      "code": "PL-26",
+      "name": "Świętokrzyskie",
+      "type": "Voivodship"
+    },
+    {
+      "code": "PL-28",
       "name": "Warmińsko-mazurskie",
-      "type": "Province"
+      "type": "Voivodship"
     },
     {
-      "code": "PL-WP",
+      "code": "PL-30",
       "name": "Wielkopolskie",
-      "type": "Province"
+      "type": "Voivodship"
     },
     {
-      "code": "PL-ZP",
+      "code": "PL-32",
       "name": "Zachodniopomorskie",
-      "type": "Province"
+      "type": "Voivodship"
     },
     {
       "code": "PS-BTH",
